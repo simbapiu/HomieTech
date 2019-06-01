@@ -1,0 +1,160 @@
+body{
+    background-color: rgb(249,249, 249);
+}
+.container{
+    margin: 40px;
+}
+
+html{
+    font-family: sans serif;
+}
+
+.how{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.what_do_you_want{
+    margin: auto;
+    width: 550px;
+    height: 37px;
+    padding: 40px;
+    text-align: center;
+    font-size: smaller;
+}
+
+.department{
+    float: left;
+    width: 253px;
+    background-color: mediumpurple;
+    border: 1px solid mediumpurple;
+    padding: 10px;
+    display: inline-block;
+    color: #fff;
+}
+
+.property{
+    float: left;
+    width: 253px;
+    border: 1px solid mediumpurple;
+    padding: 10px;
+    display: inline-block;
+    color: mediumpurple;
+}
+
+.carousel_images_department{
+    margin: auto;
+    width: 830px;
+    height: 385px;
+    font-size: 15px;
+    color: RGB(74, 74, 74 );
+
+}
+
+.visit_the_property{
+    float: left;
+    width: 266px;
+    height: 385px;
+    margin: 5px;
+    border-radius: 2.5%;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+    background-color: #FFF;
+}
+
+.visit_elements{
+    padding: 20px 15px 0;
+    text-align: left;
+}
+
+.visit_title{
+    width: 230px;
+    height: 20px;
+    font-size: larger;
+    margin-bottom: 15px;
+    color: mediumpurple;
+    font-weight: bold;
+}
+
+.visit_text{
+    width: 230px;
+    height: 160px;
+}
+
+.visit_image{
+    width: 86%;
+    margin: auto;
+}
+
+.apply_to_homie{
+    float: left;
+    width: 266px;
+    height: 385px;
+    margin: 5px;
+    border-radius: 2.5%;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+    background-color: #FFF;
+}
+
+.apply_elements{
+    padding: 20px 15px 0;
+    text-align: left;
+}
+
+.apply_title{
+    width: 230px;
+    height: 20px;
+    font-size: larger;
+    margin-bottom: 15px;
+    color: mediumpurple;
+    font-weight: bold;
+}
+
+.apply_text{
+    width: 230px;
+    height: 160px;
+}
+
+.apply_image{
+    width: 92%;
+    margin: auto;
+}
+
+.pull_apart{
+    float: left;
+    width: 266px;
+    height: 385px;
+    margin: 5px;
+    border-radius: 2.5%;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+    background-color: #FFF;
+}
+
+.pull_apart_elements{
+    padding: 20px 15px 0;
+    text-align: left;
+}
+
+.pull_apart_title{
+    width: 230px;
+    height: 20px;
+    font-size: larger;
+    margin-bottom: 15px;
+    color: mediumpurple;
+    font-weight: bold;
+}
+
+.pull_apart_text{
+    width: 230px;
+    height: 160px;
+}
+
+.pull_apart_image{
+    width: 88%;
+    margin: auto;
+}
+
+image{
+    overflow: hidden;
+    position: absolute;
+}
