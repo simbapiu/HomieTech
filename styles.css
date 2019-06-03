@@ -6,7 +6,7 @@ body{
 }
 
 html{
-    font-family: sans serif;
+    font-family:"Product Sans", serif;
 }
 
 .how{
@@ -15,7 +15,7 @@ html{
     font-size: x-large;
 }
 
-.what_do_you_want{
+.what-do-you-want{
     margin: auto;
     width: 550px;
     height: 37px;
@@ -43,16 +43,15 @@ html{
     color: mediumpurple;
 }
 
-.carousel_images_department{
+.carousel-images-department{
     margin: auto;
     width: 830px;
     height: 385px;
     font-size: 15px;
     color: RGB(74, 74, 74 );
-
 }
 
-.visit_the_property{
+.department-container{
     float: left;
     width: 266px;
     height: 385px;
@@ -62,12 +61,12 @@ html{
     background-color: #FFF;
 }
 
-.visit_elements{
+.department-items{
     padding: 20px 15px 0;
     text-align: left;
 }
 
-.visit_title{
+.items-title{
     width: 230px;
     height: 20px;
     font-size: larger;
@@ -76,80 +75,22 @@ html{
     font-weight: bold;
 }
 
-.visit_text{
+.items-text{
     width: 230px;
     height: 160px;
 }
 
-.visit_image{
+.visit-image{
     width: 86%;
     margin: auto;
 }
 
-.apply_to_homie{
-    float: left;
-    width: 266px;
-    height: 385px;
-    margin: 5px;
-    border-radius: 2.5%;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
-    background-color: #FFF;
-}
-
-.apply_elements{
-    padding: 20px 15px 0;
-    text-align: left;
-}
-
-.apply_title{
-    width: 230px;
-    height: 20px;
-    font-size: larger;
-    margin-bottom: 15px;
-    color: mediumpurple;
-    font-weight: bold;
-}
-
-.apply_text{
-    width: 230px;
-    height: 160px;
-}
-
-.apply_image{
+.apply-image{
     width: 92%;
     margin: auto;
 }
 
-.pull_apart{
-    float: left;
-    width: 266px;
-    height: 385px;
-    margin: 5px;
-    border-radius: 2.5%;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
-    background-color: #FFF;
-}
-
-.pull_apart_elements{
-    padding: 20px 15px 0;
-    text-align: left;
-}
-
-.pull_apart_title{
-    width: 230px;
-    height: 20px;
-    font-size: larger;
-    margin-bottom: 15px;
-    color: mediumpurple;
-    font-weight: bold;
-}
-
-.pull_apart_text{
-    width: 230px;
-    height: 160px;
-}
-
-.pull_apart_image{
+.pull-apart-image{
     width: 88%;
     margin: auto;
 }
